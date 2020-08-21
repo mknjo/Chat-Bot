@@ -1,2 +1,3 @@
 # Chat-Bot
 ‍Training AI is all about predicting what users will say and hope to get from your chatbot. By now, you should already have defined your use cases (specific purposes for your chatbot). Next, we have to train the AI chatbot to understand the many ways that customers will ask (or utter) their questions.
+Preferably, we need to have high end machines with more GPU for deep learning models as it need more training and if we can't deploy it's training part perfectly the given model can't be best fitted at it's automation or time at perfomance.Hence, if any user doesn't have high end machines, they can also deploy it on the google colabratory platform which i preferably recommend the user while deploying this model as it would smoothly trained and deployed. 
